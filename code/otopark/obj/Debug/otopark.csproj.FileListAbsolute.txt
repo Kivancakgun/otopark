@@ -1,0 +1,17 @@
+D:\Programlama\ödev\C#\Final\otopark\otopark\bin\Debug\otopark.exe.config
+D:\Programlama\ödev\C#\Final\otopark\otopark\bin\Debug\otopark.exe
+D:\Programlama\ödev\C#\Final\otopark\otopark\bin\Debug\otopark.pdb
+D:\Programlama\ödev\C#\Final\otopark\otopark\obj\Debug\otopark.csprojAssemblyReference.cache
+D:\Programlama\ödev\C#\Final\otopark\otopark\obj\Debug\otopark.FormLogin.resources
+D:\Programlama\ödev\C#\Final\otopark\otopark\obj\Debug\otopark.Properties.Resources.resources
+D:\Programlama\ödev\C#\Final\otopark\otopark\obj\Debug\otopark.csproj.GenerateResource.cache
+D:\Programlama\ödev\C#\Final\otopark\otopark\obj\Debug\otopark.csproj.CoreCompileInputs.cache
+D:\Programlama\ödev\C#\Final\otopark\otopark\obj\Debug\otopark.exe
+D:\Programlama\ödev\C#\Final\otopark\otopark\obj\Debug\otopark.pdb
+D:\Programlama\ödev\C#\Final\otopark\otopark\obj\Debug\otopark.formAnaSayfa.resources
+D:\Programlama\ödev\C#\Final\otopark\otopark\obj\Debug\otopark.formOtoparkDurumu.resources
+D:\Programlama\ödev\C#\Final\otopark\otopark\obj\Debug\otopark.formAracGiris.resources
+D:\Programlama\ödev\C#\Final\otopark\otopark\obj\Debug\otopark.formMarka.resources
+D:\Programlama\ödev\C#\Final\otopark\otopark\obj\Debug\otopark.formSeri.resources
+D:\Programlama\ödev\C#\Final\otopark\otopark\obj\Debug\otopark.formAracCikis.resources
+D:\Programlama\ödev\C#\Final\otopark\otopark\obj\Debug\otopark.formSatis.resources
